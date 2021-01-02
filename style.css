@@ -80,7 +80,7 @@ img{
     background-size: cover;
     background-position: center;
     
-    background-image: url("/images/la.jpg");
+    background-image: url("images/la.jpg");
     padding: 2rem;
     display: flex;
     flex-direction: column;
